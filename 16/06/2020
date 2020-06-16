@@ -1,0 +1,18 @@
+Vorteile von Datenbanken?
+
+Zugang zu Daten mehrere  Benutzer
+Sicherheit vor Verlusten
+Strukturierte Hinterlegeung der Daten
+
+Die 9 Codd'schen Anforderungen:
+
+Integration, Operation, Katalog, Benutzersichten, integitätssicherung, Zugriffkontrolle, transaktion, Synchronisation und Datensicherung.
+
+
+Entity Relationship Model
+
+- Modelliert Gegenstände (Entities) und die Beziehungen (Relationships).
+
+  -Entity (Objekt) über welche Informationen zu speichern sind ....
+  - Relationship (Beziehung) zwischen Entities ......
+  - Attribut (Eigenschaft) von Entities oder Beziehungen ......
